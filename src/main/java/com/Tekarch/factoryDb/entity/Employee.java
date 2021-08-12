@@ -28,6 +28,7 @@ public class Employee implements Serializable
 
    // @OneToOne(mappedBy = "",fetch= FetchType.LAZY,cascade = CascadeType.ALL)
    //new changes done by praveena
+    // made changes to employee
 
 
 
