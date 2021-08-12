@@ -24,6 +24,8 @@ public class Employee implements Serializable
     @Column(name = " first_name")
     private String firstName;
 
+    private String city;
+
    // @OneToOne(mappedBy = "",fetch= FetchType.LAZY,cascade = CascadeType.ALL)
 
 
