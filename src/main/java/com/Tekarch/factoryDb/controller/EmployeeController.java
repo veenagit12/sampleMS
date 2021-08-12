@@ -21,6 +21,7 @@ public class EmployeeController {
     {
         return employeeRepository.findAll();
     }
+    //new changes done by praveena
 
     @PostMapping(value ="/employee")
     public Employee addNewEmployee(@RequestBody Employee e1)
