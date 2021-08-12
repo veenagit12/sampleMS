@@ -27,6 +27,7 @@ public class Employee implements Serializable
     private String city;
 
    // @OneToOne(mappedBy = "",fetch= FetchType.LAZY,cascade = CascadeType.ALL)
+   //new changes done by praveena
 
 
 
